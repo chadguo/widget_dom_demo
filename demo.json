@@ -43,13 +43,56 @@
 
             ]
         },
-        Object{...},
-        Object{...},
-        Object{...},
-        Object{...},
-        Object{...},
-        Object{...},
-        Object{...},
+        {
+            "method":"translate",
+            "data":[
+                3,
+                4
+            ]
+        },
+        {
+            "method":"save",
+            "data":[
+
+            ]
+        },
+        {
+            "method":"restore",
+            "data":[
+
+            ]
+        },
+        {
+            "method":"save",
+            "data":[
+
+            ]
+        },
+        {
+            "method":"save",
+            "data":[
+
+            ]
+        },
+        {
+            "method":"translate",
+            "data":[
+                0,
+                0
+            ]
+        },
+        {
+            "method":"setFillStyle",
+            "data":[
+                "normal",
+                [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            ]
+        },
         {
             "method":"setFontSize",
             "data":[
@@ -64,14 +107,62 @@
                 14
             ]
         },
-        Object{...},
-        Object{...},
-        Object{...},
-        Object{...},
-        Object{...},
-        Object{...},
-        Object{...},
-        Object{...},
+        {
+            "method":"restore",
+            "data":[
+
+            ]
+        },
+        {
+            "method":"restore",
+            "data":[
+
+            ]
+        },
+        {
+            "method":"save",
+            "data":[
+
+            ]
+        },
+        {
+            "method":"translate",
+            "data":[
+                65,
+                0
+            ]
+        },
+        {
+            "method":"save",
+            "data":[
+
+            ]
+        },
+        {
+            "method":"translate",
+            "data":[
+                0,
+                0
+            ]
+        },
+        {
+            "method":"setFillStyle",
+            "data":[
+                "normal",
+                [
+                    45,
+                    187,
+                    48,
+                    255
+                ]
+            ]
+        },
+        {
+            "method":"setFontSize",
+            "data":[
+                14
+            ]
+        },
         {
             "method":"fillText",
             "data":[
@@ -80,9 +171,24 @@
                 14
             ]
         },
-        Object{...},
-        Object{...},
-        Object{...},
+        {
+            "method":"restore",
+            "data":[
+
+            ]
+        },
+        {
+            "method":"restore",
+            "data":[
+
+            ]
+        },
+        {
+            "method":"restore",
+            "data":[
+
+            ]
+        },
         {
             "method":"save",
             "data":[
